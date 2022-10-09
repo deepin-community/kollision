@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2014 Edgar Muniz Berlinck <edgar.vv@gmail.com> -->
+<!--
+     EmailAddress: wolfgang@rohdewald.de
+SentUpstream: 2014-09-24
+-->
+<component type="desktop">
+  <id>org.kde.kollision.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Kollision</name>
+  <name xml:lang="ca">Kollision</name>
+  <name xml:lang="ca-valencia">Kollision</name>
+  <name xml:lang="cs">Kollision</name>
+  <name xml:lang="da">Kollision</name>
+  <name xml:lang="de">Kollision</name>
+  <name xml:lang="el">Kollision</name>
+  <name xml:lang="en-GB">Kollision</name>
+  <name xml:lang="es">Kollision</name>
+  <name xml:lang="et">Kollision</name>
+  <name xml:lang="fi">Kollision</name>
+  <name xml:lang="fr">Kollision</name>
+  <name xml:lang="gl">Kollision</name>
+  <name xml:lang="id">Kollision</name>
+  <name xml:lang="it">Kollision</name>
+  <name xml:lang="ko">Kollision</name>
+  <name xml:lang="nl">Kollision</name>
+  <name xml:lang="nn">Kollisjon</name>
+  <name xml:lang="pl">Kolizja</name>
+  <name xml:lang="pt">Kollision</name>
+  <name xml:lang="pt-BR">Kollision</name>
+  <name xml:lang="ru">Kollision</name>
+  <name xml:lang="sk">Kollision</name>
+  <name xml:lang="sl">Kollision</name>
+  <name xml:lang="sr">Колизија</name>
+  <name xml:lang="sr-Latn">Kolizija</name>
+  <name xml:lang="sr-ijekavian">Колизија</name>
+  <name xml:lang="sr-ijekavianlatin">Kolizija</name>
+  <name xml:lang="sv">Kollision</name>
+  <name xml:lang="tr">Kollision</name>
+  <name xml:lang="uk">Kollision</name>
+  <name xml:lang="x-test">xxKollisionxx</name>
+  <name xml:lang="zh-CN">Kollision</name>
+  <name xml:lang="zh-TW">Kollision</name>
+  <summary>Casual ball game</summary>
+  <summary xml:lang="ca">Joc de pilota informal</summary>
+  <summary xml:lang="ca-valencia">Joc de pilota informal</summary>
+  <summary xml:lang="de">Ein einfaches Ausweich-Ballspiel</summary>
+  <summary xml:lang="el">Συνηθισμένο παιχνίδι με μπάλες</summary>
+  <summary xml:lang="en-GB">Casual ball game</summary>
+  <summary xml:lang="es">Juego de bolas distraído</summary>
+  <summary xml:lang="et">Ajaviite-pallimäng</summary>
+  <summary xml:lang="fi">Rento pallopeli</summary>
+  <summary xml:lang="fr">Jeu de balle</summary>
+  <summary xml:lang="gl">Xogo de bólas para distraerse</summary>
+  <summary xml:lang="id">Permainan bola kasual</summary>
+  <summary xml:lang="it">Gioco scacciapensieri della palla</summary>
+  <summary xml:lang="ko">캐주얼 공 게임</summary>
+  <summary xml:lang="nl">Balspel ter verstrooiing</summary>
+  <summary xml:lang="nn">Enkelt ballspel</summary>
+  <summary xml:lang="pl">Zwyczajna gra w piłkę</summary>
+  <summary xml:lang="pt">Jogo de bolas arbitrárias</summary>
+  <summary xml:lang="pt-BR">Jogo de bolas ocasional</summary>
+  <summary xml:lang="sk">Ležérna loptová hra</summary>
+  <summary xml:lang="sl">Igra z žogo</summary>
+  <summary xml:lang="sr">Необавезна игра са лоптицама</summary>
+  <summary xml:lang="sr-Latn">Neobavezna igra sa lopticama</summary>
+  <summary xml:lang="sr-ijekavian">Необавезна игра са лоптицама</summary>
+  <summary xml:lang="sr-ijekavianlatin">Neobavezna igra sa lopticama</summary>
+  <summary xml:lang="sv">Vardagligt bollspel</summary>
+  <summary xml:lang="tr">Sıradan bir top oyunu</summary>
+  <summary xml:lang="uk">Казуальна гра з кульками</summary>
+  <summary xml:lang="x-test">xxCasual ball gamexx</summary>
+  <summary xml:lang="zh-CN">休闲球游戏</summary>
+  <summary xml:lang="zh-TW">丟球遊戲</summary>
+  <description>
+    <p>
+      Kollision is a casual game where you need to throw your ball and avoid the
+      others balls on the table as long as possible.
+    </p>
+    <p xml:lang="ca">El Kollision és un joc informal a on cal llançar la pilota i evitar les altres pilotes de la taula durant tant temps com sigui possible.</p>
+    <p xml:lang="ca-valencia">El Kollision és un joc informal a on cal llançar la pilota i evitar les altres pilotes de la taula durant tant temps com siga possible.</p>
+    <p xml:lang="de">Kollision ist ein Spiel, in dem Sie mit Ihrem Ball allen anderen Bällen auf dem Spielfeld solange wie möglich ausweichen müssen.</p>
+    <p xml:lang="el">Το Kollision είναι ένα συνηθισμένο παιχνίδι όπου ρίχνεις τη μπάλα σου και αποφεύγεις τις άλλες μπάλες στον πίνακα όσο το δυνατόν περισσότερο.</p>
+    <p xml:lang="en-GB">Kollision is a casual game where you need to throw your ball and avoid the others balls on the table as long as possible.</p>
+    <p xml:lang="es">Kollision es un juego de bolas distraído en el que debe lanzar una bola y evitar al resto de bolas del tablero tanto tiempo como sea posible.</p>
+    <p xml:lang="et">Kollision on ajaviitemäng, kus pead liigutama enda palli ja vältima võimalikult kaua teisi mängulaual liikuvaid palle.</p>
+    <p xml:lang="fi">Kollision on rento peli, jossa heität palloa ja yrität vältellä toisten palloja laudalla niin pitkään kuin mahdollista.</p>
+    <p xml:lang="fr">Kollision est un jeu de balle simple dans lequel vous devez lancer votre balle sur la table et éviter les balles des autres joueurs aussi longtemps que possible.</p>
+    <p xml:lang="gl">Kollision é un xogo para distraerse no que te que tirar a súa bóla e evitar o resto de bólas do taboleiro tanto tempo como poida.</p>
+    <p xml:lang="id">Kollision adalah permainan kasual di mana kamu harus melempar bola dan menghindari lainnya yang mengamuk di atas meja selama mungkin.</p>
+    <p xml:lang="it">Kollision è un gioco scacciapensieri in cui devi lanciare la tua palla ed evitare le altre sul tavolo il più a lungo possibile.</p>
+    <p xml:lang="ko">Kollision은 내 공을 던지고 테이블에 있는 다른 공을 최대한 오래 피하는 게임입니다.</p>
+    <p xml:lang="nl">Kollision is een spel ter verstrooiing waarin u uw bal moet gooien en de andere ballen op de tafel zo lang mogelijk moet vermijden.</p>
+    <p xml:lang="nn">Kollision er eit kjapt og enkelt spel der du skal styra ein ball rundt på eit brett og unngå å verta treft av andre ballar som sprett rundt på brettet.</p>
+    <p xml:lang="pl">Kollision jest zwyczajną grą, w której musisz rzucić swoją piłkę na stół i unikać piłek innych tak długo jak to możliwe.</p>
+    <p xml:lang="pt">O Kollision é jogo de causa-efeito, onde terá de jogar a bola e evitar as outras bolas na mesa, durante o máximo de tempo possível.</p>
+    <p xml:lang="pt-BR">Kollision é um jogo ocasional, onde deve-se jogar a bola e evitar as outras bolas na mesa pelo máximo de tempo possível.</p>
+    <p xml:lang="sk">Kollision je ležérna loptová hra, kde potrebujete hodiť loptu a vyhnúť sa ostatným loptám na stole, kým je to možné.</p>
+    <p xml:lang="sl">Kollision je igra, v kateri vržete žogo in nato poskusite čim dlje preprečevati njen stik z žogami drugih.</p>
+    <p xml:lang="sr">Колизија је необавезна игра у којој бацате своју лоптицу и избегавате друге лоптице на табли што дуже можете.</p>
+    <p xml:lang="sr-Latn">Kolizija je neobavezna igra u kojoj bacate svoju lopticu i izbegavate druge loptice na tabli što duže možete.</p>
+    <p xml:lang="sr-ijekavian">Колизија је необавезна игра у којој бацате своју лоптицу и избегавате друге лоптице на табли што дуже можете.</p>
+    <p xml:lang="sr-ijekavianlatin">Kolizija je neobavezna igra u kojoj bacate svoju lopticu i izbegavate druge loptice na tabli što duže možete.</p>
+    <p xml:lang="sv">Kollision är ett vardagsspel där man ska kasta en boll och undvika andras bollar på spelbordet så länge som möjligt.</p>
+    <p xml:lang="tr">Kollision, topu fırlatmayı ve masaüstünde olabildiğince diğer toplardan kaçmayı hedef alan sıradan bir top oyunudur.</p>
+    <p xml:lang="uk">Kollision — казуальна гра, у якій ви кидаєте кульку так, щоб вона якомога довше не стикалася з іншими кульками на полі.</p>
+    <p xml:lang="x-test">xxKollision is a casual game where you need to throw your ball and avoid the others balls on the table as long as possible.xx</p>
+    <p xml:lang="zh-CN">Kollision 是一个休闲游戏，扔出球的同时并尽量躲避其他在桌子上的球。</p>
+    <p xml:lang="zh-TW">Kollision 是一套簡單的休閒遊戲，您要丟出球並盡量避免碰到桌上的其他球。</p>
+  </description>
+  <url type="homepage">https://kde.org/applications/games/org.kde.kollision</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=kollision&amp;source=appdata</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://cdn.kde.org/screenshots/kollision/kollision.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="0.3.21080" date="2021-08-12"/>
+    <release version="0.3.21043" date="2021-07-08"/>
+    <release version="0.3.21042" date="2021-06-10"/>
+    <release version="0.3.21041" date="2021-05-13"/>
+  </releases>
+</component>
